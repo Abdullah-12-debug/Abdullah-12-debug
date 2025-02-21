@@ -1,8 +1,6 @@
 
 ## Hi there 👋
 
-**Abdullah-12-debug/Abdullah-12-debug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ### About Me
 - 🐍 I’m a **Python Developer** with a passion for writing clean, efficient, and scalable code.
 - 🔐 I’m currently learning **Cybersecurity** to enhance my skills in securing applications and systems.
